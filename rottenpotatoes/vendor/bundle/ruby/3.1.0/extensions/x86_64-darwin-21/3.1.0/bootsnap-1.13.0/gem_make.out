@@ -1,0 +1,16 @@
+current directory: /Users/rajendrathottempudi/IdeaProjects/rottenpotatoes/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.13.0/ext/bootsnap
+/usr/local/opt/ruby/bin/ruby -I /usr/local/Cellar/ruby/3.1.2_1/lib/ruby/3.1.0 -r ./siteconf20221028-37276-c2r85g.rb extconf.rb
+creating Makefile
+
+current directory: /Users/rajendrathottempudi/IdeaProjects/rottenpotatoes/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.13.0/ext/bootsnap
+make DESTDIR\= clean
+
+current directory: /Users/rajendrathottempudi/IdeaProjects/rottenpotatoes/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.13.0/ext/bootsnap
+make DESTDIR\=
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+ld: warning: -undefined dynamic_lookup may not work with chained fixups
+
+current directory: /Users/rajendrathottempudi/IdeaProjects/rottenpotatoes/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.13.0/ext/bootsnap
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20221028-37276-bsuh6c/bootsnap
