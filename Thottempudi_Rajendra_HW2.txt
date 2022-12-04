@@ -1,5 +1,5 @@
 ﻿https://rthottempudi.herokuapp.com/movies
  
-Updated the app :
+Updated the app url:
 
 https://rthottempudi-rottenpotatoes.herokuapp.com/movies
